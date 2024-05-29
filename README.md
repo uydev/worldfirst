@@ -3,7 +3,7 @@
 # setup
 ```
 git clone https://github.com/uydev/worldfirst.git
-cd worldfirst
+cd worldfirst/src
 ```
 
 ``` 
